@@ -10,7 +10,7 @@ Getting started
 buildscript {
     repositories {
         mavenCentral()
-        maven { url 'http://mtkopone.github.com/scct/maven-repo' }
+        maven { url 'http://scct.github.com/scct/maven-repo' }
     }
     dependencies {
         classpath 'com.github.maiflai:gradle-scct:0.3'
